@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/decoded001" target="blank"><img src="https://img.shields.io/twitter/follow/decoded001?logo=twitter&style=for-the-badge" alt="decoded001" /></a> </p>
 
-- 🔭 I’m currently working on **Tech Fleet**
+- 🔭 I’m currently working on **Tech Fleet** web project
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **front-end web development**
 
