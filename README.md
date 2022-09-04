@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Samson Eze</h1>
+
 <h3 align="center">Fervent Frontend Developer</h3>
+
+<h3 align="center">Admin at **DH Tech**</h3>
 
 <p align="left"> <a href="https://twitter.com/decoded001" target="blank"><img src="https://img.shields.io/twitter/follow/decoded001?logo=twitter&style=for-the-badge" alt="decoded001" /></a> </p>
 
